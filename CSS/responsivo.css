@@ -71,7 +71,8 @@
     }
 
     #EfeitoNome{
-        display: flex;
+      
+        line-height: 96%;
         
     }
 
