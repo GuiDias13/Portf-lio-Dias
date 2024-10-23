@@ -315,6 +315,7 @@ section.sobre .flex {
     white-space: nowrap;
     color: var(--cor-destaqueVerde);
     animation: load 6s linear infinite;
+    line-height: 96%;
 }
 
 @keyframes load {
